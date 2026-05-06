@@ -11,22 +11,22 @@ function OptionsPage() {
         ⬅ Back
       </button>
 
-      <h1>These are for you 💖</h1>
+      <h1>These are for you </h1>
 
       <div className="cards">
 
         <div className="card" onClick={() => navigate("/message")}>
-          <Mail size={42} color="#e91e63" />
+          <Mail size={42} color="#151314" />
           <p>Message</p>
         </div>
 
         <div className="card" onClick={() => navigate("/music")}>
-          <Music size={42} color="#e91e63" />
+          <Music size={42} color="#201b1c" />
           <p>Music</p>
         </div>
 
         <div className="card" onClick={() => navigate("/gallery")}>
-          <Image size={42} color="#e91e63" />
+          <Image size={42} color="#070707" />
           <p>Gallery</p>
         </div>
 

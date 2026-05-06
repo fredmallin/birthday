@@ -8,10 +8,10 @@ function MessagePage() {
       <button onClick={() => navigate(-1)}>⬅ Back</button>
 
       <div className="message-card">
-        <h2>💖 A Special Message For You</h2>
+        <h2> A Special Message For You</h2>
 
         <p>
-          Happy Birthday 🎉💖  
+          Happy Birthday   
         </p>
 
         <p>
@@ -34,10 +34,10 @@ function MessagePage() {
 
         <p>
           Enjoy your day, celebrate yourself, and know that you are truly
-          appreciated 💕🎂
+          appreciated 
         </p>
 
-        <h3>With love 💌</h3>
+        <h3>With love </h3>
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ function Home() {
       <h1>Happy Birthday!</h1>
 
       <div className="envelope" onClick={() => navigate("/hero")}>
-        <div className="seal">🎁</div>
+        <div className="seal"></div>
         <p>Click to open</p>
       </div>
     </div>
