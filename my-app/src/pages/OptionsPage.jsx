@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import { Mail, Music, Image } from "lucide-react";
 
 function OptionsPage() {
   const navigate = useNavigate();
@@ -6,24 +7,26 @@ function OptionsPage() {
   return (
     <div className="options">
       {/* Back button */}
-      <button className="back-btn" onClick={() => navigate(-1)}>⬅ Back</button>
+      <button className="back-btn" onClick={() => navigate(-1)}>
+        ⬅ Back
+      </button>
 
       <h1>These are for you 💖</h1>
 
       <div className="cards">
 
         <div className="card" onClick={() => navigate("/message")}>
-          💌
+          <Mail size={42} color="#e91e63" />
           <p>Message</p>
         </div>
 
         <div className="card" onClick={() => navigate("/music")}>
-          🎵
+          <Music size={42} color="#e91e63" />
           <p>Music</p>
         </div>
 
         <div className="card" onClick={() => navigate("/gallery")}>
-          📸
+          <Image size={42} color="#e91e63" />
           <p>Gallery</p>
         </div>
 
