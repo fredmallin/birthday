@@ -12,7 +12,7 @@ function MusicPage() {
       <iframe
         width="100%"
         height="300"
-        src="https://www.youtube.com/embed/tVIyYfU014g?autoplay=1&mute=1"
+        src="https://www.youtube.com/embed/gyCPkNBz918?autoplay=1&mute=1"
         title="Birthday"
         allowFullScreen
       ></iframe>
