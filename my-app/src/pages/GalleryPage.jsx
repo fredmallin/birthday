@@ -7,12 +7,12 @@ function GalleryPage() {
     <div className="page">
       <button onClick={() => navigate(-1)}>⬅ Back</button>
 
-      <h2>📸 Memories</h2>
+      <h2>Memories</h2>
 
       <div className="images">
-        <img src="/images/pic1.jpg" />
-        <img src="/images/pic2.jpg" />
-        <img src="/images/pic3.jpg" />
+        <img src="/Gemini_Generated_Image_2w3xh12w3xh12w3x.png" />
+        <img src="/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png" />
+        <img src="/images/Gemini_Generated_Image_5udzlz5udzlz5udz.png" />
       </div>
     </div>
   );
