@@ -1,5 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
+import "../App.css";
 
 function HeroPage() {
   const navigate = useNavigate();
@@ -8,26 +9,14 @@ function HeroPage() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowConfetti(false);
-    }, 4000); // disappears after 2 seconds
+    }, 5000);
 
     return () => clearTimeout(timer);
   }, []);
 
   return (
-    <div
-      className="hero-page"
-      style={{
-        position: "relative",
-        overflow: "hidden",
-        height: "100vh",
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "center",
-        alignItems: "center",
-        background: "#fff",
-      }}
-    >
-      {/* Glitter / Confetti */}
+    <div className="hero-page">
+      {/* Confetti */}
       {showConfetti && (
         <>
           {[...Array(40)].map((_, i) => (
@@ -51,6 +40,7 @@ function HeroPage() {
                 animation: `fall ${
                   1 + Math.random() * 2
                 }s linear forwards`,
+                zIndex: 10,
               }}
             />
           ))}
