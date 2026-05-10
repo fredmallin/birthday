@@ -6,7 +6,7 @@ function OptionsPage() {
 
   return (
     <div className="options">
-      {/* Back button */
+      {/* Back button *
       <button className="back-btn" onClick={() => navigate(-1)}>
         ⬅ Back
       </button>
