@@ -49,7 +49,7 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "my-app/public/linda 13.jpeg",
+      image: "/linda 13.jpeg",
       caption: "Late night talks",
     },
     {
@@ -100,22 +100,7 @@ function GalleryPage() {
       image: "/linda hero.jpeg",
       caption: "Late night talks",
     },
-    {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
-      caption: "Late night talks",
-    },
-    {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
-      caption: "Late night talks",
-    },
-    {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
-      caption: "Late night talks",
-    },
-    {
-      image: "/images/Gemini_Generated_Image_5udzlz5udzlz5udz.png",
-      caption: "Beautiful memories",
-    },
+   
   ];
 
   return (
