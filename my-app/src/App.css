@@ -5,7 +5,7 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  background: #9f132a;
+  background: #579ff1;
   color: #0b0909;
 }
 
@@ -33,14 +33,14 @@ body, html {
 ========================= */
 h1, h2 {
   margin: 1rem 0;
-  color: #e91e63;
+  color: #7cc0fd;
 }
 
 /* =========================
    BUTTONS
 ========================= */
 button {
-  background: #be0b65;
+  background: #5f9ff2;
   color: white;
   border: none;
   padding: 0.6rem 1.2rem;
@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-  background: #d81b60;
+  background: #0e0c0c;
 }
 
 /* Back button */
@@ -85,7 +85,7 @@ button:hover {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(235, 130, 147, 0.4);
+  background: rgba(98, 225, 250, 0.4);
   z-index: 0;
 }
 
@@ -109,7 +109,7 @@ button:hover {
 ========================= */
 .envelope {
   background: #fce4ec;
-  border: 2px solid #e91e63;
+  border: 2px solid #0775f1;
   border-radius: 12px;
   padding: 2rem;
   cursor: pointer;
@@ -124,13 +124,13 @@ button:hover {
   font-size: 2rem;
 }
 .envelope-page h1 {
-  color: #fda9d3; 
+  color: #27dcf8; 
 }
 /* =========================
    OPTIONS PAGE 
 ========================= */
 .options {
-  background: #f3b2bf; 
+  background: #021a39; 
 }
 
 .options h2 {
@@ -189,34 +189,93 @@ button:hover {
 }
 
 /* =========================
-   GALLERY
+   GALLERY SECTION
+========================= */
+.gallery {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #07111f, #02050d);
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.gallery-title {
+  color: #dfe7f3;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  letter-spacing: 1px;
+}
+
+/* =========================
+   IMAGE CONTAINER
 ========================= */
 .images {
   display: flex;
-  gap: 1.5rem;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 1.5rem;
+  gap: 3rem;
 }
 
-.images img {
-  width: 260px;
-  height: 260px;
+/* =========================
+   POLAROID CARD
+========================= */
+.photo-card {
+  background: #f4f4f4;
+  padding: 1rem 1rem 4rem;
+  width: 280px;
+  position: relative;
+  transform: rotate(-2deg);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+  transition: 0.4s ease;
+}
+
+.photo-card:nth-child(even) {
+  transform: rotate(2deg);
+}
+
+.photo-card:hover {
+  transform: scale(1.05) rotate(0deg);
+}
+
+/* Tape effect */
+.photo-card::before {
+  content: "";
+  width: 90px;
+  height: 22px;
+  background: rgba(255,255,255,0.7);
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-5deg);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* =========================
+   IMAGE
+========================= */
+.photo-card img {
+  width: 100%;
+  height: 320px;
   object-fit: cover;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: 0.3s ease;
+  display: block;
+  border: none;
 }
 
-.images img:hover {
-  transform: scale(1.07);
+/* =========================
+   CAPTION
+========================= */
+.caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+  color: #1b2a41;
+  font-family: "Comic Sans MS", cursive;
 }
 
 /* =========================
    MUSIC PAGE
 ========================= */
 .page {
-  background: linear-gradient(135deg, #9f132a, #ff4d6d);
+  background: linear-gradient(135deg, #18139f, #31afe4);
 }
 
 .page iframe {
@@ -247,7 +306,7 @@ button:hover {
    MESSAGE PAGE
 ========================= */
 .message-page {
-  background: linear-gradient(135deg, #fe0133, #ff4d6d);
+  background: linear-gradient(135deg, #1c05e6, #0b294e);
 }
 
 .message-card {
