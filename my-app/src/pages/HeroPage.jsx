@@ -62,7 +62,7 @@ function HeroPage() {
         </>
       )}
 
-      <h1>Happy Birthday Grace 🎉</h1>
+      <h1>Happy Birthday Linda 🎉</h1>
       <p>I hope this little gift will make you happy</p>
 
       <button onClick={() => navigate("/options")}>

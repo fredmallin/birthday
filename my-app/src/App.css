@@ -5,7 +5,7 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  background: #579ff1;
+  background: #021e3b;
   color: #0b0909;
 }
 
@@ -33,7 +33,7 @@ body, html {
 ========================= */
 h1, h2 {
   margin: 1rem 0;
-  color: #7cc0fd;
+  color: #41cbea;
 }
 
 /* =========================
@@ -73,7 +73,7 @@ button:hover {
    HERO PAGE
 ========================= */
 .hero-page {
-  background-image: url("/Gemini_Generated_Image_2w3xh12w3xh12w3x.png");
+  background-image: url("/linda.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -189,29 +189,50 @@ button:hover {
 }
 
 /* =========================
-   GALLERY SECTION
+   GALLERY PAGE
 ========================= */
 .gallery {
   min-height: 100vh;
+  padding: 2rem;
   background: radial-gradient(circle at top, #07111f, #02050d);
-  padding: 3rem 1rem;
   text-align: center;
 }
 
-.gallery-title {
-  color: #dfe7f3;
-  font-size: 2rem;
-  margin-bottom: 3rem;
-  letter-spacing: 1px;
+/* =========================
+   BACK BUTTON
+========================= */
+.back-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid #00c3ff;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  transition: 0.3s;
+}
+
+.back-btn:hover {
+  background: #00c3ff;
+  color: black;
 }
 
 /* =========================
-   IMAGE CONTAINER
+   TITLE
+========================= */
+.gallery-title {
+  color: #dfe7f3;
+  font-size: 2.2rem;
+  margin-bottom: 3rem;
+}
+
+/* =========================
+   IMAGE GRID
 ========================= */
 .images {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 3rem;
 }
 
@@ -219,17 +240,17 @@ button:hover {
    POLAROID CARD
 ========================= */
 .photo-card {
-  background: #f4f4f4;
-  padding: 1rem 1rem 4rem;
   width: 280px;
+  background: #f5f5f5;
+  padding: 1rem 1rem 4rem;
   position: relative;
-  transform: rotate(-2deg);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
   transition: 0.4s ease;
+  transform: rotate(-3deg);
 }
 
 .photo-card:nth-child(even) {
-  transform: rotate(2deg);
+  transform: rotate(3deg);
 }
 
 .photo-card:hover {
@@ -239,11 +260,11 @@ button:hover {
 /* Tape effect */
 .photo-card::before {
   content: "";
-  width: 90px;
-  height: 22px;
-  background: rgba(255,255,255,0.7);
   position: absolute;
-  top: -12px;
+  width: 90px;
+  height: 20px;
+  background: rgba(255,255,255,0.7);
+  top: -10px;
   left: 50%;
   transform: translateX(-50%) rotate(-5deg);
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
@@ -257,25 +278,22 @@ button:hover {
   height: 320px;
   object-fit: cover;
   display: block;
-  border: none;
 }
 
 /* =========================
    CAPTION
 ========================= */
 .caption {
-  text-align: center;
   margin-top: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: #1b2a41;
   font-family: "Comic Sans MS", cursive;
 }
-
 /* =========================
    MUSIC PAGE
 ========================= */
 .page {
-  background: linear-gradient(135deg, #18139f, #31afe4);
+  background: linear-gradient(135deg, #02122e, #02212e);
 }
 
 .page iframe {
