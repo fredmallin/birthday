@@ -57,7 +57,7 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "my-app/public/linda 15.jpeg",
+      image: "/linda 15.jpeg",
       caption: "Late night talks",
     },
     {
