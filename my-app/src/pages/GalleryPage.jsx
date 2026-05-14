@@ -13,47 +13,47 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 4.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 5.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 6.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 7.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 8.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 9.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 10.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 11.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 12.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 13.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 14.jpeg",
       caption: "Late night talks",
     },
     {
