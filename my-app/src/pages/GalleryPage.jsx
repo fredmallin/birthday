@@ -65,7 +65,7 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 17.jpeg",
       caption: "Late night talks",
     },
     {
