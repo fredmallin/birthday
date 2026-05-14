@@ -6,99 +6,99 @@ function GalleryPage() {
   const memories = [
     {
       image: "/linda 2.jpeg",
-      caption: "First adventure together",
+      caption: "alooh",
     },
     {
       image: "/linda 3.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 4.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 5.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 6.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 7.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 8.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 9.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 10.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 11.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 12.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 13.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 14.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 15.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 16.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 17.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 18.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 19.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 20.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 21.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 22.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 23.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda 24.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
     {
       image: "/linda hero.jpeg",
-      caption: "Late night talks",
+      caption: "happy birthday linda",
     },
    
   ];
