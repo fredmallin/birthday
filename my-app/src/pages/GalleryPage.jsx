@@ -5,8 +5,92 @@ function GalleryPage() {
 
   const memories = [
     {
-      image: "/Gemini_Generated_Image_2w3xh12w3xh12w3x.png",
+      image: "/linda 2.jpeg",
       caption: "First adventure together",
+    },
+    {
+      image: "my-app/public/linda 3.jpeg",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
+    },
+    {
+      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      caption: "Late night talks",
     },
     {
       image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
