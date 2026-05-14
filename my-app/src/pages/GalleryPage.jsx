@@ -89,7 +89,7 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "my-app/public/linda 23.jpeg",
+      image: "/linda 23.jpeg",
       caption: "Late night talks",
     },
     {
