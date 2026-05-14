@@ -9,7 +9,7 @@ function GalleryPage() {
       caption: "First adventure together",
     },
     {
-      image: "my-app/public/linda 3.jpeg",
+      image: "/linda 3.jpeg",
       caption: "Late night talks",
     },
     {
@@ -69,35 +69,35 @@ function GalleryPage() {
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 18.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 19.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 20.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 21.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 22.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 23.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda 24.jpeg",
       caption: "Late night talks",
     },
     {
-      image: "/images/Gemini_Generated_Image_1fet9y1fet9y1fet.png",
+      image: "my-app/public/linda hero.jpeg",
       caption: "Late night talks",
     },
     {
