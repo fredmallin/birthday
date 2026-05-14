@@ -360,3 +360,21 @@ button:hover {
     transform: translateY(0);
   }
 }
+
+/* Typing animation */
+.typing-text {
+  color: white;
+  font-size: 3rem;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #ffccff;
+  width: fit-content;
+  margin: auto;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
