@@ -92,8 +92,30 @@ function GalleryPage() {
       image: "/linda 23.jpeg",
       caption: "happy birthday linda",
     },
-    {
+   
+     {
       image: "/linda 24.jpeg",
+      caption: "happy birthday linda",
+    },
+
+    {
+      image: "/linda 26.jpeg",
+      caption: "happy birthday linda",
+    },
+     {
+      image: "/linda 27.jpeg",
+      caption: "happy birthday linda",
+    },
+     {
+      image: "/linda 28.jpeg",
+      caption: "happy birthday linda",
+    },
+     {
+      image: "/linda 29.jpeg",
+      caption: "happy birthday linda",
+    },
+     {
+      image: "/linda 30.jpeg",
       caption: "happy birthday linda",
     },
     {
