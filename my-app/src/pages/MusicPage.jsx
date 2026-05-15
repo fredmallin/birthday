@@ -7,7 +7,7 @@ function MusicPage() {
     <div className="page">
       <button onClick={() => navigate(-1)}>⬅ Back</button>
 
-      <h2>Song that reminds me of you</h2>
+      <h2>Song that reminds us of you</h2>
 
    <iframe
   width="100%"
