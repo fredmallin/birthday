@@ -10,14 +10,14 @@ function MusicPage() {
       <h2>Song that reminds me of you</h2>
 
    <iframe
-  width="100%"
-  height="300"
-  src="https://www.youtube.com/embed/TMcl90dbLjA"
-  title="Music"
-  frameBorder="0"
-  allow="autoplay; encrypted-media; picture-in-picture"
-  allowFullScreen
-></iframe>
+        width="100%"
+        height="315"
+        src="https://www.youtube.com/embed/gyCPkNBz918?autoplay=1&mute=1&loop=1&playlist=gyCPkNBz918"
+        title="YouTube music player"
+        frameBorder="0"
+        allow="autoplay; encrypted-media"
+        allowFullScreen
+      ></iframe>
     </div>
   );
 }
