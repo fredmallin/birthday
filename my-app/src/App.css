@@ -378,3 +378,12 @@ button:hover {
     border-color: transparent;
   }
 }
+
+.envelope-page {
+  justify-content: center;
+  gap: 2rem;
+}
+
+.typing-text {
+  margin: 0;
+}
