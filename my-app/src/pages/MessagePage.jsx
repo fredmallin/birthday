@@ -16,7 +16,7 @@ function MessagePage() {
 
         <p>
           Today is not just a special day for you, but also a reminder of how
-          important you are to the people around you. I’m really grateful to
+          important you are to the people around you. we are really grateful to
           have you in my life.
         </p>
 
@@ -33,11 +33,11 @@ function MessagePage() {
         </p>
 
         <p>
-          Enjoy your day, celebrate yourself, and know that you are truly
+          Enjoy your day, celebrate yourself and know that you are truly
           appreciated 
         </p>
 
-        <h3>With love </h3>
+        <h3>With love from sisi ni sisi </h3>
       </div>
     </div>
   );
