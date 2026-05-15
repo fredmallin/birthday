@@ -15,7 +15,7 @@ function MessagePage() {
         </p>
 
         <p>
-          Today is all about celebrating you — our sister, our cousin, our biggest sister, our best friend, and honestly one of the greatest blessings in our lives. You have such a beautiful heart, and the love, care, and warmth you give to everyone around you never go unnoticed.
+          Today is all about celebrating you :our sister, our cousin, our biggest sister, our best friend, and honestly one of the greatest blessings in our lives. You have such a beautiful heart, and the love, care, and warmth you give to everyone around you never go unnoticed.
         </p>
 
         <p>
